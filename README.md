@@ -10,7 +10,7 @@ Built a **multi-environment AWS infrastructure** using **Terraform**, provisioni
 * 🏷️ Implemented best practices for resource tagging and modular infrastructure design.
 * 📁 Organized Terraform code for scalability and easier maintenance.
 * ☁️ Strengthened hands-on experience with **AWS** and **Infrastructure as Code (IaC)**.
-
+```mermaid
 flowchart TB
 
 A[👨‍💻 Developer] --> B[📦 Terraform CLI]
@@ -32,5 +32,8 @@ F3 --> G3[🖥️ EC2 Instances]
 G1 --> H[📡 Application Running]
 G2 --> H
 G3 --> H
+```
+
+⚡ Terraform modules ensure reusability, consistency, and scalable infrastructure across all environments.
 
 🔗 **Repository:** https://github.com/sk7652183-rgb/terraform_infra_environment
